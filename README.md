@@ -1,3 +1,5 @@
+ABABACAR SAGNA 220673
+KANKOU MARIE SANOGO 221544
  Le projet consiste à utiliser un modèle de machine learning entraîné pour détecter la fraude bancaire. Les données d'entrée sont mises à l'échelle à l'aide d'un scaler, puis utilisées pour prédire si une transaction est frauduleuse ou non. L'interface utilisateur Streamlit offre une expérience conviviale pour les utilisateurs finaux.
  Fichier IPYNB : Le fichier IPYNB contient le code utilisé pour entraîner un modèle de détection de fraude bancaire.Il inclut probablement des cellules de code pour charger les données, explorer les données, entraîner le modèle, évaluer les performances du modèle, et sauvegarder le modèle et les autres objets nécessaires.
  Fichiers Pickle : Ils existent deux fichiers pickle : model_rf.pkl et scaler.pkl. model_rf.pkl : Il contient le modèle entraîné, probablement un modèle de forêt aléatoire pour la détection de fraude. scaler.pkl : Il contient l'objet de mise à l'échelle utilisé pour mettre à l'échelle les données d'entrée avant de les utiliser pour les prédictions.
