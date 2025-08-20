@@ -1,5 +1,5 @@
 🏦 Système de Détection de Fraude Bancaire en Temps Réel
-📋 Description
+# 📋 Description
 Application web de détection de fraudes bancaires utilisant un modèle de Machine Learning (Random Forest) pour classifier les transactions en temps réel. Le système analyse les caractéristiques d'une transaction pour déterminer si elle est potentiellement frauduleuse ou légitime.
 🚀 Fonctionnalités
 
