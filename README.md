@@ -1,14 +1,14 @@
-🏦 Système de Détection de Fraude Bancaire en Temps Réel
+# 🏦 Système de Détection de Fraude Bancaire en Temps Réel
 # 📋 Description
 Application web de détection de fraudes bancaires utilisant un modèle de Machine Learning (Random Forest) pour classifier les transactions en temps réel. Le système analyse les caractéristiques d'une transaction pour déterminer si elle est potentiellement frauduleuse ou légitime.
-🚀 Fonctionnalités
+# 🚀 Fonctionnalités
 
 Prédiction en temps réel : Classification instantanée des transactions
 Interface utilisateur intuitive : Application web Streamlit facile à utiliser
 Modèle pré-entraîné : Utilise un Random Forest optimisé
 Prétraitement intégré : Normalisation automatique des données avec StandardScaler
 
-🛠️ Technologies Utilisées
+# 🛠️ Technologies Utilisées
 
 Python : Langage de programmation principal
 Streamlit : Framework pour l'interface web
@@ -16,7 +16,7 @@ Scikit-learn : Bibliothèque de Machine Learning
 Joblib : Sérialisation et chargement des modèles
 NumPy : Manipulation des données numériques
 
-📦 Prérequis
+# 📦 Prérequis
 bashPython 3.7+
 pip (gestionnaire de paquets Python)
 ⚙️ Installation
@@ -64,7 +64,7 @@ Le système affichera si la transaction est frauduleuse ou normale
 
 
 
-📊 Caractéristiques d'Entrée
+# 📊 Caractéristiques d'Entrée
 Le modèle utilise 16 caractéristiques principales issues d'une analyse PCA (Principal Component Analysis) :
 
 V1, V2, V3, V4, V5, V6, V7 : Composantes principales 1 à 7
