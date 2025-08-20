@@ -39,13 +39,13 @@ joblib==1.3.0
 numpy==1.24.0
 Puis installez avec :
 bashpip install -r requirements.txt
-📁 Structure du Projet
+# 📁 Structure du Projet
 ├── app.py                 # Application Streamlit principale
 ├── Examen_ML.ipynb
 ├── model_rf.pkl          # Modèle Random Forest sauvegardé
 ├── scaler.pkl            # StandardScaler sauvegardé
 └── README.md             # Documentation du projet
-🎯 Utilisation
+# 🎯 Utilisation
 
 Lancer l'application
 
